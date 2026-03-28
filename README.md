@@ -5,9 +5,10 @@
 
 <img src="a1.png" width="45%" height="45%">
 </p>
-![alt text](a2.png)
-# Technology
-- ** HTML **
-- ** CSS **
-- ** BOOTSTRAP **
-- ** JS **
+- About Us
+
+  ![alt text](a2.png)
+## Technology
+- **HTML**
+- **CSS**
+- **BOOTSTRAP**
