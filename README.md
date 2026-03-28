@@ -3,4 +3,4 @@
 ### Summary
 <p align="center">
 
-![alt text](image-1.png)
+![alt text](home.png)
