@@ -5,7 +5,7 @@
 
 <img src="a1.png" width="45%" height="45%">
 </p>
-
+![alt text](image.png)
 # Technology
 - ** HTML **
 - ** CSS **
