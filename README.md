@@ -3,7 +3,7 @@
 ### Summary
 <p align="center">
 
-<img src="home.png" width="45%" height="45%">
+<img src="a1.png" width="45%" height="45%">
 </p>
 
 # Technology
